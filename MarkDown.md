@@ -10,13 +10,13 @@
 ##### Text that are Bold and Italic
 This is **bold** text and this is *italic* text. ~~strikedout~~
 
-##### adding some Link and image and quotes
+##### Adding some Link and Image and Quotes
 Here is the [Link to google](https://www.google.co.in/).
 
-![My Image](/image/white Background.jpg)
+![My Image](/image/picture.jpg)
 
 >some Quotes :smile: 
-##### code single line & multiple line and formatted
+##### Code single line & multiple line and formatted
 `var example=5`
 
 ```
