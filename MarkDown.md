@@ -1,22 +1,22 @@
-#Working with _MarkDown_ __README.md__  :octocat:
+# Working with _MarkDown_ __README.md__  :octocat:
   
-#####Diffrent types of Headings
+##### Different types of Headings
  
-#heading
-##subheading
-###smaller Heading
-######smallest Heading
+# heading
+## subheading
+### smaller Heading
+###### smallest Heading
 
-#####Text that are Bold and Italic
+##### Text that are Bold and Italic
 This is **bold** text and this is *italic* text. ~~strikedout~~
 
-#####adding some Link and image and quotes
+##### adding some Link and image and quotes
 Here is the [Link to google](https://www.google.co.in/).
 
 ![My Image](https://unsplash.com/photos/nvzvOPQW0gc)
 
 >some Quotes :smile: 
-#####code single line & multiple line and formated
+##### code single line & multiple line and formatted
 `var example=5`
 
 ```
@@ -31,7 +31,7 @@ Here is the [Link to google](https://www.google.co.in/).
         return true
     }
 ```
-#####Let's checkout some List :
+##### Let's checkout some List :
 1. One
 2. Two
 3. Three
@@ -51,7 +51,7 @@ Here is the [Link to google](https://www.google.co.in/).
 
  
 
-#####Table in MarkDown
+##### Table in MarkDown
 
 First Header | second Header
 -------------|--------------
@@ -59,12 +59,14 @@ content from 1st cell | content from 2nd Cell
 content from 1st column | content from 2nd column
 
 
-#####clickable Link for Google :
+##### Clickable Link for Google :
  https://www.google.co.in/
 
-#####Link to previous commit : 
+##### Link to previous commit : 
 
 a046c92d4eab30e658edc95a47357634120523c2
 
 @abhibuddy Has made this notes for MarkDown
--Thank you for checking out this Page. Give a :+1: if you like this page or :-1: if you Dislike.-
+
+-Thank you for checking out this Page.
+-Give a :+1: if you like this page or :-1: if you Dislike.-
