@@ -63,11 +63,5 @@ content from 1st column | content from 2nd column
 ##### Clickable Link for Google :
  https://www.google.co.in/
 
-##### Link to previous commit : 
-
-a046c92d4eab30e658edc95a47357634120523c2
-
-@abhibuddy Has made this notes for MarkDown
-
 **Thank you for checking out this Page.**
 *Give a :+1: if you like this page or :-1: if you Dislike.*
